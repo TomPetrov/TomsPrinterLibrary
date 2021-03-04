@@ -1,4 +1,4 @@
-package Factory;
+package LabelFactory;
 
 public class LabelFactorySettings {
 }
