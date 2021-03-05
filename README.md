@@ -1,4 +1,4 @@
-# TomsPrinterLibrary
+# PrinterSDK
 
 TODO:
 LabelFactory with Interpreter
