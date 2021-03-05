@@ -10,21 +10,21 @@ The builder will receive language agnostic data in the form of appendable elemen
 
 The build function will receive args for printer lang, encoding etc
 
-
+#
 Element
 
 This class will be extended by all label elements, with instances of Anchorable, Commandment, and others
 
-
+#
 Anchorable
 
 The implementable, with Anchor var
-
+#
 Represents all printable elements
-
+#
 Anchor - Contains coords and anchor type
 
-
+#
 Anchor type - where the element is anchored such as top_left(default and only legible anchor for printer langs), center (useful for centering non static data), top_left(useful for rtl human langs)
 
 Since printer langs don't have an anchor, this is to be eventually calculated by the sdk for the same position with the default top_left anchor
