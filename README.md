@@ -19,7 +19,7 @@ This class will be extended by all label elements, with instances of Anchorable,
 Anchorable
 
 The implementable, with Anchor var
-#
+
 Represents all printable elements
 #
 Anchor - Contains coords and anchor type
